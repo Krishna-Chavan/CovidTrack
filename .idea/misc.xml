@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/covid-19/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/covid-19/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/covid-19/favoriteservice/pom.xml" />
+        <option value="$PROJECT_DIR$/covid-19/searchservice/pom.xml" />
+        <option value="$PROJECT_DIR$/covid-19/spring-cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/covid-19/userservice/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
